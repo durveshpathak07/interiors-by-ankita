@@ -9,11 +9,10 @@ export function Footer() {
           
           <div className="space-y-6">
             <Link to="/" className="block">
-              <span className="text-2xl font-serif tracking-tight text-white block">INTERIORS BY</span>
-              <span className="text-sm tracking-[0.2em] font-sans text-stone-400 uppercase">Ankita Shinde</span>
+              <span className="text-2xl font-serif tracking-tight text-white block uppercase">The Cosy Canvas</span>
             </Link>
             <p className="text-stone-400 text-sm leading-relaxed max-w-xs">
-              Creating Beautiful Homes That Reflect Your Lifestyle. Premium luxury residential and commercial interior design studio based in Nashik.
+              Creating Beautiful Homes That Reflect Your Lifestyle. Premium luxury residential and commercial interior design studio based in Kolhapur.
             </p>
           </div>
 
@@ -33,7 +32,7 @@ export function Footer() {
             <ul className="space-y-4 text-sm text-stone-400">
               <li className="flex items-start gap-3">
                 <MapPin size={18} className="shrink-0 mt-0.5" />
-                <span>123 Luxury Avenue, Gangapur Road<br />Nashik, Maharashtra 422005</span>
+                <span>123 Luxury Avenue, Rajarampuri<br />Kolhapur, Maharashtra 416008</span>
               </li>
               <li className="flex items-center gap-3">
                 <Phone size={18} className="shrink-0" />
@@ -41,7 +40,7 @@ export function Footer() {
               </li>
               <li className="flex items-center gap-3">
                 <Mail size={18} className="shrink-0" />
-                <a href="mailto:hello@ankitashinde.com" className="hover:text-white transition-colors">hello@ankitashinde.com</a>
+                <a href="mailto:hello@thecosycanvas.com" className="hover:text-white transition-colors">hello@thecosycanvas.com</a>
               </li>
             </ul>
           </div>
@@ -61,7 +60,7 @@ export function Footer() {
         </div>
 
         <div className="mt-16 pt-8 border-t border-stone-800 flex flex-col md:flex-row justify-between items-center gap-4 text-xs tracking-wider text-stone-500 uppercase">
-          <p>© {new Date().getFullYear()} Interiors By Ankita Shinde. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} The Cosy Canvas. All rights reserved.</p>
           <div className="flex gap-6">
             <Link to="#" className="hover:text-stone-300 transition-colors">Privacy Policy</Link>
             <Link to="#" className="hover:text-stone-300 transition-colors">Terms of Service</Link>

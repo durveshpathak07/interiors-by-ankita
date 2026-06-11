@@ -39,9 +39,8 @@ export function Navbar() {
       )}
     >
       <div className="container mx-auto px-6 md:px-12 flex justify-between items-center max-w-7xl">
-        <Link to="/" className="text-xl md:text-2xl font-serif tracking-tight text-stone-900 z-50 relative">
-          INTERIORS BY<br />
-          <span className="text-sm tracking-[0.2em] font-sans text-stone-800 uppercase">Ankita Shinde</span>
+        <Link to="/" className="text-xl md:text-2xl font-serif tracking-tight text-stone-900 z-50 relative uppercase">
+          The Cosy Canvas
         </Link>
 
         {/* Desktop Nav */}

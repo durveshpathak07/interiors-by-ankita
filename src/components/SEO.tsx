@@ -7,8 +7,8 @@ interface SEOProps {
 }
 
 export function SEO({
-  title = 'Interiors By Ankita Shinde | Luxury Interior Design',
-  description = 'Creating Beautiful Homes That Reflect Your Lifestyle. Premium luxury residential and commercial interior design studio based in Nashik, Maharashtra.',
+  title = 'The Cosy Canvas | Luxury Interior Design',
+  description = 'Creating Beautiful Homes That Reflect Your Lifestyle. Premium luxury residential and commercial interior design studio based in Kolhapur, Maharashtra.',
   type = 'website',
 }: SEOProps) {
   return (

@@ -17,7 +17,7 @@ export default function Home() {
             <div className="w-full lg:w-1/2 space-y-8 z-10">
               <FadeIn>
                 <p className="text-stone-500 uppercase tracking-[0.2em] text-sm font-semibold">
-                  Interiors By Ankita Shinde
+                  The Cosy Canvas
                 </p>
               </FadeIn>
               <FadeIn delay={0.1}>
@@ -171,10 +171,10 @@ export default function Home() {
           <div className="space-y-8">
             <FadeIn>
               <h2 className="text-sm tracking-[0.2em] text-stone-400 uppercase">The Studio</h2>
-              <h3 className="text-4xl md:text-5xl font-serif mt-4 mb-6">Meet Ankita Shinde.</h3>
+              <h3 className="text-4xl md:text-5xl font-serif mt-4 mb-6">Welcome to our Studio.</h3>
               <div className="space-y-4 text-stone-300 leading-relaxed font-light">
                 <p>
-                  Founded on a passion for creating spaces that resonate with personal stories, Interiors By Ankita Shinde has grown into a premier luxury design studio serving clients across Maharashtra and beyond.
+                  Founded on a passion for creating spaces that resonate with personal stories, The Cosy Canvas has grown into a premier luxury design studio serving clients across Maharashtra and beyond.
                 </p>
                 <p>
                   We believe that a well-designed space has the power to transform lives. Our approach marries meticulous space planning with an intuitive sense of aesthetics, resulting in homes that are not only visual masterpieces but also deeply comfortable havens.

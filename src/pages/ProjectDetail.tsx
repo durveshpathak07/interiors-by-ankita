@@ -16,7 +16,7 @@ export default function ProjectDetail() {
 
   return (
     <>
-      <SEO title={`${project.title} | Interiors By Ankita Shinde`} description={project.overview} />
+      <SEO title={`${project.title} | The Cosy Canvas`} description={project.overview} />
       
       {/* Hero Image */}
       <section className="pt-8 mb-16">

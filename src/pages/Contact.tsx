@@ -5,7 +5,7 @@ import { MapPin, Phone, Mail, Instagram } from 'lucide-react';
 export default function Contact() {
   return (
     <>
-      <SEO title="Contact Us | Interiors By Ankita Shinde" description="Get in touch to book a consultation for your luxury interior design project." />
+      <SEO title="Contact Us | The Cosy Canvas" description="Get in touch to book a consultation for your luxury interior design project." />
       
       {/* Hero */}
       <section className="pt-20 pb-10">
@@ -31,7 +31,7 @@ export default function Contact() {
                         <MapPin size={24} className="shrink-0 mt-1 text-stone-400" />
                         <div>
                            <p className="text-sm tracking-widest uppercase text-stone-400 font-semibold mb-2">Visit Us</p>
-                           <p className="leading-relaxed">123 Luxury Avenue,<br />Gangapur Road,<br />Nashik, Maharashtra 422005</p>
+                           <p className="leading-relaxed">123 Luxury Avenue,<br />Rajarampuri,<br />Kolhapur, Maharashtra 416008</p>
                         </div>
                       </li>
                       <li className="flex items-start gap-4">
@@ -45,7 +45,7 @@ export default function Contact() {
                         <Mail size={24} className="shrink-0 mt-1 text-stone-400" />
                         <div>
                            <p className="text-sm tracking-widest uppercase text-stone-400 font-semibold mb-2">Email Us</p>
-                           <a href="mailto:hello@ankitashinde.com" className="hover:text-stone-300 transition-colors">hello@ankitashinde.com</a>
+                           <a href="mailto:hello@thecosycanvas.com" className="hover:text-stone-300 transition-colors">hello@thecosycanvas.com</a>
                         </div>
                       </li>
                     </ul>

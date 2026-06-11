@@ -106,7 +106,7 @@ export const projects = [
     id: '1',
     title: 'Modern Minimal Villa',
     slug: 'modern-minimal-villa',
-    location: 'Nashik, MH',
+    location: 'Kolhapur, MH',
     category: 'Villa',
     designStyle: 'Minimalist Luxury',
     area: '6,500 sq ft',
@@ -154,7 +154,7 @@ export const projects = [
     id: '4',
     title: 'Heritage Renovation',
     slug: 'heritage-renovation',
-    location: 'Nashik, MH',
+    location: 'Kolhapur, MH',
     category: 'Living Room',
     designStyle: 'Transitional',
     area: '1,800 sq ft',
@@ -171,7 +171,7 @@ export const projects = [
     title: 'Culinary Masterpiece',
     slug: 'culinary-masterpiece',
     category: 'Kitchen',
-    location: 'Nashik, MH',
+    location: 'Kolhapur, MH',
     designStyle: 'Modern Luxury',
     area: '600 sq ft',
     image: 'https://images.unsplash.com/photo-1556910103-1c02745aae4d?auto=format&fit=crop&q=80&w=2000',
@@ -191,7 +191,7 @@ export const testimonials = [
     project: 'Modern Minimal Villa',
     image: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&q=80&w=200&h=200',
     rating: 5,
-    review: 'Ankita and her team completely transformed our villa. The level of detail and the quality of materials used exceeded our expectations. They understood our vision immediately and delivered a space that feels incredibly luxurious yet functional.'
+    review: 'The Cosy Canvas completely transformed our villa. The level of detail and the quality of materials used exceeded our expectations. They understood our vision immediately and delivered a space that feels incredibly luxurious yet functional.'
   },
   {
     id: '2',
@@ -199,7 +199,7 @@ export const testimonials = [
     project: 'The Executive Office',
     image: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=200&h=200',
     rating: 5,
-    review: 'Working with Interiors By Ankita Shinde on our new corporate office was a seamless experience. They managed the entire turnkey project professionally, staying within timeline and budget. The resulting space is a massive upgrade for our brand image.'
+    review: 'Working with The Cosy Canvas on our new corporate office was a seamless experience. They managed the entire turnkey project professionally, staying within timeline and budget. The resulting space is a massive upgrade for our brand image.'
   },
   {
     id: '3',
@@ -207,7 +207,7 @@ export const testimonials = [
     project: 'Neutral Serenity Apartment',
     image: 'https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&q=80&w=200&h=200',
     rating: 5,
-    review: 'I wanted a home that felt like a sanctuary, and Ankita delivered precisely that. Her taste in furniture and styling is impeccable. The process was stress-free, and walking into the finished apartment for the first time took my breath away.'
+    review: 'I wanted a home that felt like a sanctuary, and the team delivered precisely that. Their taste in furniture and styling is impeccable. The process was stress-free, and walking into the finished apartment for the first time took my breath away.'
   }
 ];
 

@@ -20,7 +20,7 @@ export default function Projects() {
 
   return (
     <>
-      <SEO title="Portfolio | Interiors By Ankita Shinde" description="Explore our portfolio of luxury residential and commercial interior design projects." />
+      <SEO title="Portfolio | The Cosy Canvas" description="Explore our portfolio of luxury residential and commercial interior design projects." />
       
       {/* Hero */}
       <section className="pt-20 pb-10">

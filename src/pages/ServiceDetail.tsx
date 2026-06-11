@@ -14,7 +14,7 @@ export default function ServiceDetail() {
 
   return (
     <>
-      <SEO title={`${service.title} | Interiors By Ankita Shinde`} description={service.shortDescription} />
+      <SEO title={`${service.title} | The Cosy Canvas`} description={service.shortDescription} />
       
       {/* Hero */}
       <section className="pt-8 mb-16">

@@ -6,7 +6,7 @@ import { Star } from 'lucide-react';
 export default function Testimonials() {
   return (
     <>
-      <SEO title="Client Testimonials | Interiors By Ankita Shinde" description="Read what our clients have to say about working with Interiors By Ankita Shinde." />
+      <SEO title="Client Testimonials | The Cosy Canvas" description="Read what our clients have to say about working with The Cosy Canvas." />
       
       <section className="pt-20 pb-10">
         <div className="container mx-auto px-6 md:px-12 max-w-7xl">

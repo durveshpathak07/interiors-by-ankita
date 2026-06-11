@@ -7,7 +7,7 @@ import { ArrowRight } from 'lucide-react';
 export default function Services() {
   return (
     <>
-      <SEO title="Our Services | Interiors By Ankita Shinde" description="Comprehensive luxury interior design services including residential, commercial, renovation and styling." />
+      <SEO title="Our Services | The Cosy Canvas" description="Comprehensive luxury interior design services including residential, commercial, renovation and styling." />
       
       {/* Hero */}
       <section className="pt-20 pb-10">

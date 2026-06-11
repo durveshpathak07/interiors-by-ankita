@@ -1,6 +1,8 @@
 {
-  "name": "Interiors By Ankita Shinde",
-  "description": "Premium luxury interior design studio based in Nashik, Maharashtra.",
+  "name": "The Cosy Canvas",
+  "description": "Premium luxury interior design studio based in Kolhapur, Maharashtra.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }

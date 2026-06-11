@@ -4,7 +4,7 @@ import { Section, FadeIn, Button } from '../components/ui';
 export default function About() {
   return (
     <>
-      <SEO title="About Us | Interiors By Ankita Shinde" description="Learn about our luxury interior design studio, our founder Ankita Shinde, and our design philosophy." />
+      <SEO title="About Us | The Cosy Canvas" description="Learn about our luxury interior design studio and our design philosophy." />
       
       {/* Hero */}
       <section className="pt-20 pb-10">
@@ -22,10 +22,10 @@ export default function About() {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-start">
            <FadeIn>
              <div className="relative aspect-[4/5] overflow-hidden bg-stone-100 mb-8">
-               <img src="https://images.unsplash.com/photo-1542621334-a254cf47733d?auto=format&fit=crop&q=80&w=1200" alt="Ankita Shinde" className="w-full h-full object-cover" />
+               <img src="https://images.unsplash.com/photo-1542621334-a254cf47733d?auto=format&fit=crop&q=80&w=1200" alt="Lead Designer" className="w-full h-full object-cover" />
              </div>
              <p className="text-sm tracking-[0.2em] uppercase text-stone-400 font-semibold mb-2">The Founder</p>
-             <h2 className="text-3xl font-serif text-stone-900">Ankita Shinde</h2>
+             <h2 className="text-3xl font-serif text-stone-900">Our Studio Head</h2>
            </FadeIn>
            <FadeIn delay={0.2} className="lg:pt-24 space-y-8">
               <p className="text-xl md:text-2xl font-serif text-stone-900 italic leading-relaxed text-stone-800">
@@ -33,13 +33,13 @@ export default function About() {
               </p>
               <div className="space-y-6 text-stone-600 leading-relaxed">
                  <p>
-                   Founded in 2018, Interiors By Ankita Shinde emerged from a singular vision: to bring a sense of curated, understated luxury to residential and commercial spaces. What started as a passion for spatial geometry and textural balance has evolved into a full-service design studio recognized for its sophisticated and timeless aesthetic.
+                   Founded in 2018, The Cosy Canvas emerged from a singular vision: to bring a sense of curated, understated luxury to residential and commercial spaces. What started as a passion for spatial geometry and textural balance has evolved into a full-service design studio recognized for its sophisticated and timeless aesthetic.
                  </p>
                  <p>
-                   Ankita’s background intricately blends architectural discipline with a nuanced understanding of decorative arts. This duality allows the studio to manage everything from complex structural renovations to the final placement of a vintage vase.
+                   Our background intricately blends architectural discipline with a nuanced understanding of decorative arts. This duality allows the studio to manage everything from complex structural renovations to the final placement of a vintage vase.
                  </p>
                  <p>
-                   Our team is small by design, ensuring that every project receives Ankita's personal oversight and our collective undivided attention. We pride ourselves on forging deep relationships with our clients, understanding their routines, their tastes, and how they want to feel in their space.
+                   Our team is small by design, ensuring that every project receives personal oversight and our collective undivided attention. We pride ourselves on forging deep relationships with our clients, understanding their routines, their tastes, and how they want to feel in their space.
                  </p>
               </div>
            </FadeIn>
